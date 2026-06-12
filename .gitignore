@@ -1,0 +1,37 @@
+# 환경변수 (API 키 등 민감 정보)
+.env
+.env.local
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# YOLO 모델 가중치 (용량 큰 바이너리)
+yolov11_seg/best.pt
+yolov11_seg/last.pt
+
+# 결과 이미지 및 현장 촬영 사진 (EXIF GPS 포함)
+results/images/
+test_img/
+
+# 침수흔적도 Shapefile (용량 큰 공공데이터 — 서울시 열린데이터광장에서 별도 다운로드)
+data/2020년 서울특별시 침수흔적도/
+data/2022년 침수흔적도_230717수정/
+data/2023년 서울특별시 침수흔적도/
+data/2024년 서울특별시 침수흔적도/
+
+# 임시 파일
+temp_*.jpg
+temp_*.png
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

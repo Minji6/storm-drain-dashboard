@@ -1,0 +1,14 @@
+streamlit
+streamlit-option-menu
+streamlit-toggle-switch
+streamlit-folium
+folium
+geopandas
+pandas
+Pillow
+ultralytics
+plotly
+altair
+shapely
+requests
+python-dotenv
