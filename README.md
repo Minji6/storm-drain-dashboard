@@ -1,9 +1,18 @@
-# AI로 관리하는 침수 안전망 — 빗물받이 스마트 대시보드
+# 🌧️ 빗물받이 스마트 대시보드
 
-> 팀 빗물빗물 | 서초 IT 아카데미 프로젝트 | 2025.07 ~ 09
+**AI로 관리하는 침수 안전망**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![YOLOv11](https://img.shields.io/badge/YOLOv11-111F68?style=flat&logo=ultralytics&logoColor=white)
+![Folium](https://img.shields.io/badge/Folium-77B829?style=flat&logo=leaflet&logoColor=white)
+
+---
 
 서울시 서초구의 빗물받이 상태를 현장 사진으로 기록하고,  
 AI 분석과 기상 데이터를 결합해 침수 위험도를 시각화하는 관리자용 웹 대시보드
+
+**팀 빗물빗물** &nbsp;|&nbsp; 서초 IT 아카데미 &nbsp;|&nbsp; 2025.07 ~ 09
 
 <br>
 
